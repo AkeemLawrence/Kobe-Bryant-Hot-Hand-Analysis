@@ -8,6 +8,11 @@ Using R, I compare Kobe Bryant's actual shooting streaks with a simulated indepe
 
 The goal is to explore whether Kobe's streak distribution looks meaningfully different from what we might expect if each shot were independent of the previous one.
 
+## View the Analysis
+
+- [Rendered HTML Analysis](Kobe-Bryant-Hot-Hand-Analysis.html)
+- [RMarkdown Source Code](Kobe-Bryant-Hot-Hand-Analysis.Rmd)
+
 ## Research Question
 
 Do Kobe Bryant's shooting streaks during the 2009 NBA Finals provide evidence of a hot hand, or are they consistent with the streak patterns of an independent shooter?
